@@ -1,11 +1,16 @@
 # Smart-irrigation-System-
 # 🌿 Automatic Smart Irrigation System
 
-**Authors:** Satyam Jaiswal · Mayank Singh · Ishitaa Modi · Sudeep Shukla · Harshit Awasthi
+[![Author: Satyam Jaiswal](https://img.shields.io/badge/Author-Satyam%20Jaiswal-blue?style=flat-square)](https://example.com)
+[![Author: Mayank Singh](https://img.shields.io/badge/Author-Mayank%20Singh-green?style=flat-square)](https://example.com)
+[![Author: Ishitaa Modi](https://img.shields.io/badge/Author-Ishitaa%20Modi-red?style=flat-square)](https://example.com)
+[![Author: Sudeep Shukla](https://img.shields.io/badge/Author-Sudeep%20Shukla-orange?style=flat-square)](https://example.com)
+[![Author: Harshit Awasthi](https://img.shields.io/badge/Author-Harshit%20Awasthi-yellow?style=flat-square)](https://example.com)
 
-An open‑source automatic irrigation system that measures soil moisture and water depth, then triggers watering only when needed. The system logs data via LCD and sends it to ThingSpeak for remote monitoring.
+An open‑source automatic irrigation system that measures soil moisture and water depth, then triggers watering only when needed...
 
----
+...
+
 
 ## 🔍 Objective
 - Automate irrigation to save time, water, and energy  
