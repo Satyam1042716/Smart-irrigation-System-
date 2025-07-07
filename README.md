@@ -32,7 +32,11 @@ An open‑source automatic irrigation system that measures soil moisture and wat
 - Water depth sensor  
 - 5 V single-channel relay  
 - 16×2 LCD display  
+## 📸 Parts Used
 
+<div align="center">
+  <img alt="Portfolio Demo" src="./Media/circuit.png" />
+</div>
 ## 💾 Software Tools
 - Arduino IDE  
 - ThingSpeak account (READ + WRITE API keys)
