@@ -13,7 +13,7 @@ An open‑source automatic irrigation system that measures soil moisture and wat
 ...
 ## 📸 Parts Used
 
-![Parts used in the project](Media/Parts%20used%20in%20my%20project.png)
+![Parts used in the project](Media/Parts used in my project.png)
 
 
 ## 🔍 Objective
