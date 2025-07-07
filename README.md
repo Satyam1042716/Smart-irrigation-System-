@@ -1,3 +1,4 @@
+
 # Smart-irrigation-System-
 # 🌿 Automatic Smart Irrigation System
 
@@ -10,7 +11,7 @@
 An open‑source automatic irrigation system that measures soil moisture and water depth, then triggers watering only when needed...
 
 ...
-
+![Optional alt text](Media/Parts used  in my project.png)
 
 ## 🔍 Objective
 - Automate irrigation to save time, water, and energy  
