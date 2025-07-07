@@ -11,7 +11,10 @@
 An open‑source automatic irrigation system that measures soil moisture and water depth, then triggers watering only when needed...
 
 ...
-![Optional alt text](Media/Parts used  in my project.png)
+## 📸 Parts Used
+
+![Parts used in the project](Media/Parts%20used%20in%20my%20project.png)
+
 
 ## 🔍 Objective
 - Automate irrigation to save time, water, and energy  
